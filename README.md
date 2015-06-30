@@ -1,3 +1,7 @@
+http://www.pygtk.org/pygtk2tutorial/sec-Images.html
+http://zetcode.com/tutorials/gtktutorial/firstprograms/
+http://pastebin.com/TnM8tdAu
+https://developer.gnome.org/gtk3/stable/GtkImage.html
 # TCP-IP
 http://www.raspberry-projects.com/pi/pi-operating-systems/raspbian/io-pins-raspbian/uart-pins
 http://www.slideshare.net/anandopaul/linux-booting-steps
