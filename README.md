@@ -1,3 +1,4 @@
+http://zarb.org/~gc/html/libpng.html
 http://www.xbdev.net/image_formats/png/index.php
 http://www.pygtk.org/pygtk2tutorial/sec-Images.html
 http://zetcode.com/tutorials/gtktutorial/firstprograms/
